@@ -1,0 +1,47 @@
+body {
+  background-color: #eee;
+  width: auto;
+  min-width: 300px;
+}
+
+.container {
+  background-color: #fff;
+  width: 80%;
+}
+
+.home{
+  height: 450px;
+  background-image: url(../imagens/img-fundo.jpg);
+  background-size: cover;
+  background-repeat: initial;
+  background-position: center;
+}
+
+.coluns-img-1 {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 100px;
+  height: 170px;
+}
+.our-services {
+  height: 450px;
+  background-image: url(../imagens/img-5.jpg);
+  background-size: cover;
+  background-repeat: initial;
+  background-position: center;
+}
+
+.one-big-column {
+  height: 450px;
+  background-image: url(../imagens/img-8.jpg);
+  background-size: cover;
+  background-repeat: initial;
+  background-position: center;
+}
+
+#footer {
+  min-width: 300px;
+}
